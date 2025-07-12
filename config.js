@@ -21,7 +21,7 @@ ADMIN_EVENTS: process.env.ADMIN_EVENTS || "true",
 // make true to know who dismiss or promoted a member in group  
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot
-MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://i.ibb.co/j9G5tmNM/shaban-md.jpg",
+MENU_IMAGE_URL: process.env.MENU_IMAGE_URL || "https://i.ibb.co/gLgMBYcv/shaban-md.jpg",
 // add custom menu and mention reply image url   
 BOT_NAME: process.env.BOT_NAME || "DIVINE-MD V5",
 // add bot namw here for menu
@@ -39,7 +39,7 @@ OWNER_NAME: process.env.OWNER_NAME || "DIVINE",
 // add bot owner name
 DESCRIPTION: process.env.DESCRIPTION || "*© MADE BY DIVINE TECHNOLOGIES*",
 // add bot owner name    
-ALIVE_IMG: process.env.ALIVE_IMG || "https://files.catbox.moe/tasodv.jpg",
+ALIVE_IMG: process.env.ALIVE_IMG || "https://i.ibb.co/gLgMBYcv/shaban-md.jpg",
 // add img for alive msg
 LIVE_MSG: process.env.LIVE_MSG || "YOU JUST DEPLOYED *DIVINE-MD*⚡",
 // add alive msg here 
